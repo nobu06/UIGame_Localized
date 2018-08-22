@@ -1,1 +1,1 @@
-{"items":[{"key":"game_title","value":"Quiz Game"},{"key":"start_button","value":"Start Game"}]}
+{"items":[{"key":"game_title","value":"Quiz Game"},{"key":"start_button","value":"Start Game"},{"key":"time_remaining","value":"Time: "},{"key":"score","value":"Score: "},{"key":"round_over","value":"Round Over!"},{"key":"high_score","value":"High score: "},{"key":"menu","value":"Menu"}]}
